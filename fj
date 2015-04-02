@@ -1,0 +1,77 @@
+[33mcommit d4a2f8c924eb3545d5ba92d42421c99afafe3fea[m
+Author: koperfild <avalancher2@rambler.ru>
+Date:   Sun Mar 29 21:16:05 2015 +0300
+
+    End of 6th chapter
+
+[33mcommit 097b3455d965475777ef8bf65aac8f0f76e52787[m
+Author: koperfild <avalancher2@rambler.ru>
+Date:   Sun Mar 29 10:05:07 2015 +0300
+
+    Make a basic User model (including secure passwords)
+
+[33mcommit 42c3ef70e7ec6aa30f14cb5684a027c02f45cc74[m
+Author: koperfild <avalancher2@rambler.ru>
+Date:   Sun Mar 29 07:48:55 2015 +0300
+
+    Beginning of test in chapter 6
+
+[33mcommit 083cadf564f9a347197ae942495c3db5242242fb[m
+Author: koperfild <avalancher2@rambler.ru>
+Date:   Mon Feb 23 18:10:13 2015 +0300
+
+    chapter 5 finished
+
+[33mcommit 61266333d1e79f7ae9a1ac3031c41d36cdf83f92[m
+Author: koperfild <avalancher2@rambler.ru>
+Date:   Mon Feb 23 17:36:44 2015 +0300
+
+    adding sign up
+
+[33mcommit e19ea8504aefe5a7b5bee53e33c204a5a463fa48[m
+Author: koperfild <avalancher2@rambler.ru>
+Date:   Mon Feb 23 02:27:17 2015 +0300
+
+     j
+
+[33mcommit 2f34f0165555db01c6355734e94c476a981f4fb4[m
+Author: koperfild <avalancher2@rambler.ru>
+Date:   Mon Feb 23 01:54:41 2015 +0300
+
+    adding named routes
+
+[33mcommit ce1fe1f839bbf0a2974d43b630e5d37cccf9940f[m
+Author: koperfild <avalancher2@rambler.ru>
+Date:   Sat Feb 21 00:33:59 2015 +0300
+
+    some partials + CSS
+
+[33mcommit 5050ada54004c49311613ef7522cd7e916c04dbc[m
+Author: koperfild <avalancher2@rambler.ru>
+Date:   Fri Feb 20 23:59:29 2015 +0300
+
+    j
+
+[33mcommit 87190a5f913659fd50ca646874e07c385fb1e4e3[m
+Author: koperfild <avalancher2@rambler.ru>
+Date:   Fri Feb 20 23:58:48 2015 +0300
+
+    Bootstrap,css,partials
+
+[33mcommit e10ef543e047ac896929b9a379caadac834134a7[m
+Author: koperfild <avalancher2@rambler.ru>
+Date:   Thu Feb 19 01:16:30 2015 +0300
+
+    Finish stat pages
+
+[33mcommit 1726858468361ceb53259c7b8ead40567cee29f3[m
+Author: koperfild <avalancher2@rambler.ru>
+Date:   Tue Feb 17 15:10:25 2015 +0300
+
+    Improve readme
+
+[33mcommit 60760f5c39db1f6e547e3d05b8423b208ed2f8c9[m
+Author: koperfild <avalancher2@rambler.ru>
+Date:   Tue Feb 17 15:08:13 2015 +0300
+
+    init repo
